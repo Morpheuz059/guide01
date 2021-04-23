@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Gol Tv">
+    <display-name lang="es">Gol Tv</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Bein Sports">
+    <display-name lang="es">Bein Sports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210423010000 -0500" stop="20210423013000 -0500" channel="Gol Tv">
+    <title lang="es">GOGOGOAL</title>
+  </programme>
+  <programme start="20210423013000 -0500" stop="20210423020000 -0500" channel="Gol Tv">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20210423020000 -0500" stop="20210423030000 -0500" channel="Gol Tv">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20210423030000 -0500" stop="20210423050000 -0500" channel="Gol Tv">
+    <title lang="es">Deportivo Cuenca vs. Universidad Católica</title>
+  </programme>
+  <programme start="20210423050000 -0500" stop="20210423070000 -0500" channel="Gol Tv">
+    <title lang="es">Portimonense vs. Benfica</title>
+  </programme>
+  <programme start="20210423070000 -0500" stop="20210423073000 -0500" channel="Gol Tv">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20210423073000 -0500" stop="20210423080000 -0500" channel="Gol Tv">
+    <title lang="es">Tu Fútbol - Perú</title>
+  </programme>
+  <programme start="20210423080000 -0500" stop="20210423100000 -0500" channel="Gol Tv">
+    <title lang="es">Lyon vs. Monaco</title>
+  </programme>
+  <programme start="20210423100000 -0500" stop="20210423103000 -0500" channel="Gol Tv">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20210423103000 -0500" stop="20210423110000 -0500" channel="Gol Tv">
+    <title lang="es">GOGOGOAL</title>
+  </programme>
+  <programme start="20210423110000 -0500" stop="20210423120000 -0500" channel="Gol Tv">
+    <title lang="es">El Show del Fútbol</title>
+  </programme>
+  <programme start="20210423120000 -0500" stop="20210423130000 -0500" channel="Gol Tv">
+    <title lang="es">GolNoticias</title>
+  </programme>
+  <programme start="20210423130000 -0500" stop="20210423150000 -0500" channel="Gol Tv">
+    <title lang="es">Cantolao vs. UTC</title>
+  </programme>
+  <programme start="20210423150000 -0500" stop="20210423153000 -0500" channel="Gol Tv">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20210423153000 -0500" stop="20210423173000 -0500" channel="Gol Tv">
+    <title lang="es">Municipal vs. Binacional En Vivo</title>
+  </programme>
+  <programme start="20210423173000 -0500" stop="20210423180000 -0500" channel="Gol Tv">
+    <title lang="es">Tu Fútbol Uruguay</title>
+  </programme>
+  <programme start="20210423180000 -0500" stop="20210423200000 -0500" channel="Gol Tv">
+    <title lang="es">Ayacucho vs. Cienciano En Vivo</title>
+  </programme>
+  <programme start="20210423200000 -0500" stop="20210423210000 -0500" channel="Gol Tv">
+    <title lang="es">GolTV Noticias</title>
+  </programme>
+  <programme start="20210423210000 -0500" stop="20210423213000 -0500" channel="Gol Tv">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20210423213000 -0500" stop="20210423220000 -0500" channel="Gol Tv">
+    <title lang="es">GOGOGOAL</title>
+  </programme>
+  <programme start="20210423220000 -0500" stop="20210423230000 -0500" channel="Gol Tv">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+  <programme start="20210423230000 -0500" stop="20210423233000 -0500" channel="Gol Tv">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20210423233000 -0500" stop="20210424000000 -0500" channel="Gol Tv">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20210423010000 -0500" stop="20210423013000 -0500" channel="Bein Sports">
+    <title lang="es">The Ligue 1 Show</title>
+  </programme>
+  <programme start="20210423013000 -0500" stop="20210423020000 -0500" channel="Bein Sports">
+    <title lang="es">Libertadores: Deportivo La Guaira vs. Atlético Mineiro</title>
+  </programme>
+  <programme start="20210423020000 -0500" stop="20210423023000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423023000 -0500" stop="20210423030000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423030000 -0500" stop="20210423033000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423033000 -0500" stop="20210423040000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423040000 -0500" stop="20210423043000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423043000 -0500" stop="20210423050000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423050000 -0500" stop="20210423053000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423053000 -0500" stop="20210423060000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423060000 -0500" stop="20210423063000 -0500" channel="Bein Sports">
+    <title lang="es">2020-2021: Atlético de Madrid vs. Huesca</title>
+  </programme>
+  <programme start="20210423063000 -0500" stop="20210423070000 -0500" channel="Bein Sports">
+    <title lang="es">2020-2021: Barcelona vs. Getafe</title>
+  </programme>
+  <programme start="20210423070000 -0500" stop="20210423073000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423073000 -0500" stop="20210423093000 -0500" channel="Bein Sports">
+    <title lang="es">Elche vs. Valladolid</title>
+  </programme>
+  <programme start="20210423093000 -0500" stop="20210423100000 -0500" channel="Bein Sports">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210423100000 -0500" stop="20210423103000 -0500" channel="Bein Sports">
+    <title lang="es">2020-2021: Cádiz vs. Real Madrid</title>
+  </programme>
+  <programme start="20210423103000 -0500" stop="20210423110000 -0500" channel="Bein Sports">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210423110000 -0500" stop="20210423130000 -0500" channel="Bein Sports">
+    <title lang="es">Barcelona Vs. Getafe</title>
+  </programme>
+  <programme start="20210423130000 -0500" stop="20210423132500 -0500" channel="Bein Sports">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20210423132500 -0500" stop="20210423135500 -0500" channel="Bein Sports">
+    <title lang="es">The Ligue 1 Show</title>
+  </programme>
+  <programme start="20210423135500 -0500" stop="20210423160000 -0500" channel="Bein Sports">
+    <title lang="es">Stade Reims vs. Marseille</title>
+  </programme>
+  <programme start="20210423160000 -0500" stop="20210423163000 -0500" channel="Bein Sports">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210423163000 -0500" stop="20210423170000 -0500" channel="Bein Sports">
+    <title lang="es">Libertadores: Rentistas vs. Racing</title>
+  </programme>
+  <programme start="20210423170000 -0500" stop="20210423173000 -0500" channel="Bein Sports">
+    <title lang="es">Libertadores: Independiente del Valle vs. Defensa y Justicia</title>
+  </programme>
+  <programme start="20210423173000 -0500" stop="20210423180000 -0500" channel="Bein Sports">
+    <title lang="es">Libertadores: Unión La Calera vs. Liga de Quito</title>
+  </programme>
+  <programme start="20210423180000 -0500" stop="20210423200000 -0500" channel="Bein Sports">
+    <title lang="es">Alavés vs. Villarreal</title>
+  </programme>
+  <programme start="20210423200000 -0500" stop="20210423210000 -0500" channel="Bein Sports">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210423210000 -0500" stop="20210423230000 -0500" channel="Bein Sports">
+    <title lang="es">Granada vs. Éibar</title>
+  </programme>
+  <programme start="20210423230000 -0500" stop="20210424000000 -0500" channel="Bein Sports">
+    <title lang="es">The Locker Room</title>
+  </programme>
+</tv>
